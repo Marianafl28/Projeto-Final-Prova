@@ -1,0 +1,51 @@
+ID_Venda,Data,País,Empresa_Cliente,Funcionário_Responsável,Tipo_Soja,Toneladas,Preço_Tonelada_USD,Valor_Total_USD
+INT001,21/05/2025,Japão,Tokyo Foods Corp,Carlos Silva,Grão,1004,699,701796
+INT002,13/12/2025,Estados Unidos,AgroWorld USA,Juliana Costa,Farelo,6833,372,2541876
+INT003,16/01/2025,China,SinoGrain Trading,Mariana Lopes,Premium,4256,336,1430016
+INT004,14/01/2025,Estados Unidos,AgroWorld USA,Juliana Costa,Farelo,4939,628,3101692
+INT005,18/08/2025,Estados Unidos,AgroWorld USA,Juliana Costa,Premium,4236,432,1829952
+INT006,05/08/2025,Argentina,Pampa Export,Fernanda Souza,Grão,2107,677,1426439
+INT007,22/06/2025,Argentina,Pampa Export,Mariana Lopes,Farelo,2563,710,1819730
+INT008,26/06/2025,China,SinoGrain Trading,Juliana Costa,Orgânica,1592,503,800776
+INT009,02/10/2025,Argentina,Pampa Export,Mariana Lopes,Grão,6777,555,3761235
+INT010,18/11/2025,Holanda,Dutch Agro BV,Juliana Costa,Grão,5322,470,2501340
+INT011,05/02/2025,Argentina,Pampa Export,Mariana Lopes,Premium,2375,680,1615000
+INT012,30/04/2025,Japão,Tokyo Foods Corp,Mariana Lopes,Farelo,3170,360,1141200
+INT013,06/07/2025,Holanda,Dutch Agro BV,Carlos Silva,Óleo,4514,645,2911530
+INT014,17/05/2025,Argentina,Pampa Export,Mariana Lopes,Óleo,2516,663,1668108
+INT015,06/05/2025,Alemanha,Berlin Commodities,Carlos Silva,Farelo,5175,693,3586275
+INT016,19/12/2025,Holanda,Dutch Agro BV,Juliana Costa,Orgânica,3011,647,1948117
+INT017,17/01/2025,Estados Unidos,AgroWorld USA,Fernanda Souza,Óleo,1258,437,549746
+INT018,18/10/2025,Holanda,Dutch Agro BV,Fernanda Souza,Óleo,1342,428,574376
+INT019,26/11/2025,Estados Unidos,AgroWorld USA,Lucas Almeida,Orgânica,4041,772,3119652
+INT020,15/10/2025,Estados Unidos,AgroWorld USA,Juliana Costa,Óleo,1943,446,866578
+INT021,26/10/2025,Argentina,Pampa Export,Lucas Almeida,Premium,4309,779,3356711
+INT022,10/09/2025,Argentina,Pampa Export,Mariana Lopes,Farelo,1933,580,1121140
+INT023,23/03/2025,China,SinoGrain Trading,Lucas Almeida,Grão,2052,641,1315332
+INT024,02/11/2025,Alemanha,Berlin Commodities,Lucas Almeida,Grão,3952,515,2035280
+INT025,06/01/2025,Alemanha,Berlin Commodities,Mariana Lopes,Óleo,5332,760,4052320
+INT026,25/11/2025,Japão,Tokyo Foods Corp,Fernanda Souza,Premium,6951,456,3169656
+INT027,21/08/2025,China,SinoGrain Trading,Mariana Lopes,Óleo,4361,400,1744400
+INT028,02/04/2025,Japão,Tokyo Foods Corp,Juliana Costa,Óleo,4900,710,3479000
+INT029,08/11/2025,China,SinoGrain Trading,Carlos Silva,Óleo,6034,579,3493686
+INT030,29/09/2025,Estados Unidos,AgroWorld USA,Mariana Lopes,Óleo,2123,596,1265308
+INT031,27/02/2025,Alemanha,Berlin Commodities,Fernanda Souza,Óleo,4802,329,1579858
+INT032,18/10/2025,Argentina,Pampa Export,Mariana Lopes,Farelo,1274,443,564382
+INT033,30/09/2025,China,SinoGrain Trading,Carlos Silva,Orgânica,1366,709,968494
+INT034,16/05/2025,Estados Unidos,AgroWorld USA,Juliana Costa,Orgânica,5303,404,2142412
+INT035,20/12/2025,Alemanha,Berlin Commodities,Carlos Silva,Orgânica,2535,596,1510860
+INT036,29/11/2025,Japão,Tokyo Foods Corp,Fernanda Souza,Óleo,4068,663,2697084
+INT037,07/05/2025,Holanda,Dutch Agro BV,Carlos Silva,Premium,4498,381,1713738
+INT038,11/10/2025,China,SinoGrain Trading,Carlos Silva,Óleo,972,621,603612
+INT039,29/12/2025,Alemanha,Berlin Commodities,Mariana Lopes,Farelo,858,356,305448
+INT040,19/06/2025,Estados Unidos,AgroWorld USA,Mariana Lopes,Grão,1057,760,803320
+INT041,06/09/2025,Alemanha,Berlin Commodities,Carlos Silva,Farelo,3081,662,2039622
+INT042,20/10/2025,Alemanha,Berlin Commodities,Juliana Costa,Farelo,6725,771,5184975
+INT043,28/07/2025,Holanda,Dutch Agro BV,Carlos Silva,Farelo,4674,733,3426042
+INT044,01/07/2025,China,SinoGrain Trading,Lucas Almeida,Grão,6198,540,3346920
+INT045,11/12/2025,Holanda,Dutch Agro BV,Mariana Lopes,Orgânica,6772,347,2349884
+INT046,25/02/2025,China,SinoGrain Trading,Carlos Silva,Orgânica,6765,493,3335145
+INT047,13/03/2025,Estados Unidos,AgroWorld USA,Lucas Almeida,Farelo,5193,549,2850957
+INT048,08/02/2025,Estados Unidos,AgroWorld USA,Lucas Almeida,Óleo,4589,447,2051283
+INT049,04/10/2025,Alemanha,Berlin Commodities,Mariana Lopes,Grão,1214,653,792742
+INT050,06/09/2025,China,SinoGrain Trading,Lucas Almeida,Farelo,2162,528,1141536
