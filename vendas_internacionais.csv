@@ -1,4 +1,3 @@
-```csv
 ID_Venda;Data;País;Empresa_Cliente;Funcionário_Responsável;Tipo_Soja;Toneladas;Preço_Tonelada_USD;Valor_Total_USD
 INT001;21/05/2025;Japão;Tokyo Foods Corp;Carlos Silva;Grão;1004;699;701796
 INT002;13/12/2025;Estados Unidos;AgroWorld USA;Juliana Costa;Farelo;6833;372;2541876
@@ -50,4 +49,3 @@ INT047;04/03/2025;China;SinoGrain Trading;Carlos Silva;Farelo;4720;400;1888000
 INT048;15/09/2025;Estados Unidos;AgroWorld USA;Fernanda Souza;Premium;3905;705;2753025
 INT049;27/04/2025;Japão;Tokyo Foods Corp;Juliana Costa;Óleo;3338;688;2296544
 INT050;31/12/2025;Alemanha;Berlin Commodities;Mariana Lopes;Orgânica;2800;550;1540000
-```
